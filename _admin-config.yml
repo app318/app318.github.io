@@ -1,0 +1,10 @@
+options:
+  nineyaImageFilePath: true
+  imagePrefix: yuwn-
+  overwriteImages: true
+  lineNumbers: true
+  spellcheck: true
+editor:
+  lineNumbers: true
+  inputStyle: contenteditable
+  spellcheck: true
